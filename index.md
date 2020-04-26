@@ -8,3 +8,7 @@
 - [ ] User Story Map
 - [ ] Visual Design
 - [x] Maintenance
+
+<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+
+<script type="text/javascript" src="{{ "/assets/js/dark-mode-preview.js" | absolute_url }}"></script>
