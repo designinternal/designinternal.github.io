@@ -1,3 +1,6 @@
-remote_theme: pmarsceill/just-the-docs
+theme: "just-the-docs"
 search_enabled: true
+search_tokenizer_separator: /[\s/]+/
 color_scheme: "dark"
+footer_content: "Copyright &copy; 2020"
+logo: "logo.png"
