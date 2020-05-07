@@ -1,0 +1,46 @@
+{
+  
+  "0": {
+    "title": "Empathy Map",
+    "content": "Empathy Map .",
+    "url": "http://localhost:4000/docs/methods/empathy-map.html",
+    "relUrl": "/docs/methods/empathy-map.html"
+  }
+  ,"1": {
+    "title": "Journey Map",
+    "content": "Journey Map .",
+    "url": "http://localhost:4000/docs/methods/journey-map.html",
+    "relUrl": "/docs/methods/journey-map.html"
+  }
+  ,"2": {
+    "title": "Maintenance",
+    "content": "Maintenance . Maintenance, design debt, and other things in the background to keep track of. . Table of Contents . UX Maturity | Design Debt | UX Maturity . Periodically check in on UX maturity of org and make steady progress opportunistically. UX Maturity Stages Part 2 . Design Debt . Stuff about design debt and how to keep track, eliminate, etc. .",
+    "url": "http://localhost:4000/docs/maintenance.html",
+    "relUrl": "/docs/maintenance.html"
+  }
+  ,"3": {
+    "title": "UX Methods",
+    "content": "UX Methods . Stuff about UX Methods .",
+    "url": "http://localhost:4000/docs/methods.html",
+    "relUrl": "/docs/methods.html"
+  }
+  ,"4": {
+    "title": "Service Blueprint",
+    "content": "Service Blueprint .",
+    "url": "http://localhost:4000/docs/methods/service-blueprint.html",
+    "relUrl": "/docs/methods/service-blueprint.html"
+  }
+  ,"5": {
+    "title": "User Story Map",
+    "content": "User Story Map .",
+    "url": "http://localhost:4000/docs/methods/user-story-map.html",
+    "relUrl": "/docs/methods/user-story-map.html"
+  }
+  ,"6": {
+    "title": "Welcome to Design Internal",
+    "content": "Welcome to Design Internal . A resource for designing internal tools . To-dos . Empathy Map | Journey Map | Service Blueprint | User Story Map | Visual Design | Maintenance | . Preview dark color scheme . &lt;script type=”text/javascript” src=”{{ “/assets/js/dark-mode-preview.js” | absolute_url }}”&gt;&lt;/script&gt; | .",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  }
+  
+}
